@@ -1,0 +1,4 @@
+﻿  ConsoleApplication102.cpp
+C:\Users\11\source\repos\ConsoleApplication102\ConsoleApplication102\ConsoleApplication102.cpp(68,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\11\source\repos\ConsoleApplication102\ConsoleApplication102\ConsoleApplication102.cpp(74,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication102.vcxproj -> C:\Users\11\source\repos\ConsoleApplication102\x64\Debug\ConsoleApplication102.exe
